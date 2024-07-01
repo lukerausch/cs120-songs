@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "year": 1971,
+        "genres": ["rock"]
+    },
+    {
+        "title": "Blackbird",
+        "artist": "The Beatles",
+        "year": 1968,
+        "genres": ["folk", "rock"]
+    },
+    {
+        "title": "Heading South",
+        "artist": "Zach Bryan",
+        "year": 2020,
+        "genres": ["country", "alternative"]
+    },
+    {
+        "title": "Crooked Teeth",
+        "artist": "Zach Bryan",
+        "year": 2020,
+        "genres": ["country"]
+    },
+    {
+        "title": "Hold the Line",
+        "artist": "Toto",
+        "year": 1978,
+        "genres": ["rock"]
+    },
+    {
+        "title": "Paranoid Android",
+        "artist": "Radiohead",
+        "year": 1997,
+        "genres": ["rock", "progressive"]
+    },
+    {
+        "title": "Alive",
+        "artist": "Pearl Jam",
+        "year": 1991,
+        "genres": ["rock", "grunge"]
+    },
+    {
+        "title": "This Velvet Glove",
+        "artist": "Red Hot Chili Peppers",
+        "year": 1999,
+        "genres": ["alternative", "rock"]
+    },
+    {
+        "title": "Nutshell",
+        "artist": "Alice in Chains",
+        "year": 1994,
+        "genres": ["grunge"]
+    },
+    {
+        "title": "How Much a Dollar Cost",
+        "artist": "Kendrick Lamar",
+        "year": 2015,
+        "genres": ["rap"]
+    }
+]
